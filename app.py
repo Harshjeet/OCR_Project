@@ -22,7 +22,7 @@ LANGUAGES = {
 
 #title of the app
 st.title("OCR Web application")
-st.write("Upload the image (should be in hindi or english)")
+st.write("Upload the image")
 
 
 # creating the file uploader
